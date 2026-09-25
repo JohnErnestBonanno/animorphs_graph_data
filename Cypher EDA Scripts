@@ -1,0 +1,9 @@
+Cypher EDA Scripts
+
+# Shared Morphs
+MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
+WITH collect(animorph) AS members
+MATCH (a)
+WHERE all(m IN members WHERE (a)<-[:ACQUIRES]-(m))
+MATCH q = (a)<-[:ACQUIRES]-()
+RETURN q
