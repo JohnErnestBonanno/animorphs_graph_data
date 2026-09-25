@@ -26,6 +26,7 @@ RETURN q
 ```
 ![Common Morphs](common_morphs.svg)
 
+Despite frequently commenting on the ethical challenges in morphing into another human, by the end of the series, everyone on the team has a human morph that isn't them. From a non-earth species perspective, every Animorph also has a Hork-Bajir morph. While each member of the team tends to have their own preferred flying morph (although everyone, including Tobias, has a seagull), there is major aquatic overlap including Bottlenose Dolphin, Orca, Baby Ringed Seal, Hammerhead Shark, and Giant Squid. Additionally, there major insect overlap including Mosquito, Flea, and Dragonfly.    
 
 
 What are each character's unique morphs?
@@ -43,13 +44,24 @@ RETURN p
 ```
 ![Unique Morphs](unique_morphs.svg)
 
+Unique morphs fell into a few different flavors. 
 
+1) Pets: Jake morphing into his Golden Retriever or Tobias morphing into his cat
+2) Battle Morphs: Jake's unique Siberian Tiger or Marco's Silverback Gorilla
+3) Unique Storylines: Rachel has both a Crocodile (which she developed an allergic reaction to) and Starfish where she gets split in two. Cassie has the caterpillar/butterfly combo when she debates quitting the team and is the only Animorph to change into a Yeerk. 
+
+Also of note - poor Ax doesn't have any unique morphs relative to his human team members. And to add insult to injury, Tobias can morph into an Ax. 
+
+## Lessons Learned
+- 
+-
+-
 
 
 
 ## Roadmap
 - [x] Upload proof of concept data schema focusing on morphs
-- [x] Create Graphs 
-- [ ] Record lessons learned
+- [x] Create Morph-focused Graphs 
+- [x] Record lessons learned
 
-## Lessons Learned
+
