@@ -12,8 +12,44 @@ This Neo4j will explore which animal morphs were unique to specific characters v
 ## Tech: 
 * Neo4j
 
+## Findings:
+
+What morphs do the Animorphs have in common? 
+
+```cypher
+MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
+WITH collect(animorph) AS members
+MATCH (a)
+WHERE all(m IN members WHERE (a)<-[:ACQUIRES]-(m))
+MATCH q = (a)<-[:ACQUIRES]-()
+RETURN q
+```
+![Common Morphs](common_morphs.svg)
+
+
+
+What are each character's unique morphs?
+
+```cypher
+MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
+WITH collect(animorph) AS members
+MATCH (a)<-[:ACQUIRES]-(m)
+WHERE m IN members
+WITH a, collect(DISTINCT m) AS acquirers
+WHERE size(acquirers) = 1
+WITH a, acquirers[0] AS soleAcquirer
+MATCH p = (a)<-[:ACQUIRES]-(soleAcquirer)
+RETURN p
+```
+![Unique Morphs](unique_morphs.svg)
+
+
+
+
+
 ## Roadmap
-- [ ] Upload proof of concept data schema focusing on morphs
+- [x] Upload proof of concept data schema focusing on morphs
+- [x] Create Graphs 
 - [ ] Record lessons learned
 
 ## Lessons Learned
