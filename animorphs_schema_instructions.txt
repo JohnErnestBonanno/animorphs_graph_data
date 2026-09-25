@@ -12,7 +12,7 @@ FOR (n:Entity) REQUIRE n.name IS UNIQUE
 
 #Load Nodes
 
-LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/JohnErnestBonanno/animorphs_graph_data/refs/heads/main/nodes.csv' AS row
 MERGE (n:Entity {name: row.name})
 SET n:$(row.type),
     n.description = row.description,
@@ -22,7 +22,7 @@ SET n:$(row.type),
 
 #Load Relationships
 
-LOAD CSV WITH HEADERS FROM 'file:///relationships.csv' AS row
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/JohnErnestBonanno/animorphs_graph_data/refs/heads/main/relationships.csv' AS row
 MATCH (a:Entity {name: row.from})
 MATCH (b:Entity {name: row.to})
 MERGE (a)-[r:$(row.type)]->(b)
