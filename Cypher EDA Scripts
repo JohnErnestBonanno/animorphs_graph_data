@@ -1,9 +1,37 @@
 Cypher EDA Scripts
 
-# Shared Morphs
+
+# What morphs do the Animorphs have in common?
+
 MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
 WITH collect(animorph) AS members
 MATCH (a)
 WHERE all(m IN members WHERE (a)<-[:ACQUIRES]-(m))
 MATCH q = (a)<-[:ACQUIRES]-()
 RETURN q
+
+# What are each character's unique morphs? 
+
+MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
+WITH collect(animorph) AS members
+MATCH (a)<-[:ACQUIRES]-(m)
+WHERE m IN members
+WITH a, collect(DISTINCT m) AS acquirers
+WHERE size(acquirers) = 1
+WITH a, acquirers[0] AS soleAcquirer
+MATCH p = (a)<-[:ACQUIRES]-(soleAcquirer)
+RETURN p
+
+
+# Unique Morph Count
+
+MATCH (animorph)-[:MEMBER_OF]->({name: 'Animorphs'})
+WITH collect(DISTINCT animorph) AS members
+UNWIND members AS animorph
+OPTIONAL MATCH (a)<-[:ACQUIRES]-(animorph)
+WHERE NOT EXISTS {
+  MATCH (a)<-[:ACQUIRES]-(other)
+  WHERE other IN members AND other <> animorph
+}
+RETURN animorph.name AS character, count(a) AS uniqueMorphCount
+ORDER BY uniqueMorphCount DESC
