@@ -3,6 +3,7 @@ Jake,Animorphs,MEMBER_OF,
 Rachel,Animorphs,MEMBER_OF,
 Marco,Animorphs,MEMBER_OF,
 Tobias,Animorphs,MEMBER_OF,
+Cassie,Animorphs,MEMBER_OF,
 Jake,Rachel,RELATED_TO,
 Jake,Golden Retriever,ACQUIRES,The Invasion
 Jake,Green Anole Lizard,ACQUIRES,The Invasion
@@ -179,4 +180,50 @@ Tobias,North American Beaver,ACQUIRES,The Resistance
 Tobias,German Shepherd,ACQUIRES,The Diversion
 Tobias,Mallard Drake,ACQUIRES,The Absolute
 Tobias,Dragonfly,ACQUIRES,The Answer
-Cassie,,,
+Cassie,Horse,ACQUIRES,The Invasion
+Cassie,Osprey,ACQUIRES,The Visitor
+Cassie,Wolf,ACQUIRES,The Encounter
+Cassie,Trout,ACQUIRES,The Encounter
+Cassie,Squirrel,ACQUIRES,The Message
+Cassie,Bottlenose Dolphin,ACQUIRES,The Message
+Cassie,Seagull,ACQUIRES,The Message
+Cassie,Black Garden Ant,ACQUIRES,The Predator
+Cassie,American Cockroach,ACQUIRES,The Capture
+Cassie,Housefly,ACQUIRES,The Capture
+Cassie,Great Horned Owl,ACQUIRES,The Capture
+Cassie,Flea,ACQUIRES,The Capture
+Cassie,Humpback Whale,ACQUIRES,The Andalite's Gift
+Cassie,White Rat,ACQUIRES,The Secret
+Cassie,Termite,ACQUIRES,The Secret
+Cassie,Skunk,ACQUIRES,The Secret
+Cassie,Wolf Spider,ACQUIRES,The Android
+Cassie,Brown Bat,ACQUIRES,The Android
+Cassie,Human (Rachel),ACQUIRES,The Reaction
+Cassie,Racehorse,ACQUIRES,The Unknown
+Cassie,Parrot (crimson),ACQUIRES,The Escape
+Cassie,Hammerhead Shark,ACQUIRES,The Escape
+Cassie,Mole,ACQUIRES,The Underground
+Cassie,Mosquito,ACQUIRES,The Decision
+Cassie,Leeran,ACQUIRES,The Decision
+Cassie,Tyrannosaurus Rex,ACQUIRES,In the Time of Dinosaurs
+Cassie,Caterpillar,ACQUIRES,The Departure
+Cassie,Butterfly,ACQUIRES,The Departure
+Cassie,African Elephant,ACQUIRES,The Solution
+Cassie,Giant Anteater,ACQUIRES,The Suspicion
+Cassie,Baby Ringed Seal,ACQUIRES,The Extreme
+Cassie,Polar Bear,ACQUIRES,The Extreme
+Cassie,Giant Squid,ACQUIRES,The Exposed
+Cassie,Chimpanzee,ACQUIRES,The Experiment
+Cassie,Eel,ACQUIRES,The Sickness
+Cassie,Yeerk,ACQUIRES,The Sickness
+Cassie,Hork-Bajir,ACQUIRES,The Prophecy
+Cassie,Cockatiel,ACQUIRES,The Proposal
+Cassie,Orca,ACQUIRES,The Mutation
+Cassie,Cheetah,ACQUIRES,The Weakness
+Cassie,Pit Viper,ACQUIRES,The Arrival
+Cassie,African Cape Buffalo,ACQUIRES,The Hidden
+Cassie,Honeybee,ACQUIRES,The Other
+Cassie,Hork-Bajir,ACQUIRES,The Unexpected
+Cassie,Red Kangaroo,ACQUIRES,The Unexpected
+Cassie,North American Beaver,ACQUIRES,The Resistance
+Cassie,Dragonfly,ACQUIRES,The Answer
