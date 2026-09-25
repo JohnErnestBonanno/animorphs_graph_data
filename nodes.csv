@@ -22,7 +22,7 @@ Termite,animal
 Great Horned Owl,animal
 Skunk,animal
 Brown Bat,animal
-Spider Monkey ,animal
+Spider Monkey,animal
 Jaguar,animal
 Racehorse,animal
 Parrot,animal
@@ -31,7 +31,7 @@ Rhinoceros,animal
 Mole,animal
 Mosquito,animal
 Leeran,animal
-Tyrannosaurus Rex ,animal
+Tyrannosaurus Rex,animal
 Dragonfly,animal
 Human,animal
 Giant Anteater,animal
@@ -41,11 +41,11 @@ Howler,animal
 Giant Squid,animal
 Chimpanzee,animal
 Eel,animal
-War Horse ,animal
+War Horse,animal
 Hork-Bajir,animal
 Squirrel,animal
 Cockatiel,animal
-Orca ,animal
+Orca,animal
 North American Beaver,animal
 Anaconda,animal
 African Elephant,animal
@@ -58,7 +58,6 @@ Crocodile,animal
 Deinonychus,animal
 Sperm Whale,animal
 Starfish,animal
-Orca,animal
 Cheetah,animal
 Honeybee,animal
 German Shepherd,animal
@@ -68,7 +67,6 @@ Mouse,animal
 Irish Setter,animal
 Wolf Spider,animal
 Llama,animal
-Tyrannosaurus Rex,animal
 Cobra,animal
 Mountain Goat,animal
 Poodle,animal
