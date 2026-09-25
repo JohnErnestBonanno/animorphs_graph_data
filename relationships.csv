@@ -26,7 +26,7 @@ Jake,Brown Bat,ACQUIRES,The Android
 Jake,Spider Monkey ,ACQUIRES,The Forgotten
 Jake,Jaguar,ACQUIRES,The Forgotten
 Jake,Racehorse,ACQUIRES,The Unknown
-Jake,Parrot (white),ACQUIRES,The Escape
+Jake,Parrot,ACQUIRES,The Escape
 Jake,Hammerhead Shark,ACQUIRES,The Escape
 Jake,Rhinoceros,ACQUIRES,The Warning
 Jake,Mole,ACQUIRES,The Underground
@@ -34,10 +34,10 @@ Jake,Mosquito,ACQUIRES,The Decision
 Jake,Leeran,ACQUIRES,The Decision
 Jake,Tyrannosaurus Rex ,ACQUIRES,In the Time of Dinosaurs
 Jake,Dragonfly,ACQUIRES,The Threat
-Jake,Human (adult male),ACQUIRES,The Threat
+Jake,Human,ACQUIRES,The Threat
 Jake,Giant Anteater,ACQUIRES,The Suspicion
 Jake,Baby Ringed Seal,ACQUIRES,The Extreme
-Jake,Polar Bear (Nanook),ACQUIRES,The Extreme
+Jake,Polar Bear,ACQUIRES,The Extreme
 Jake,Howler,ACQUIRES,The Attack
 Jake,Giant Squid,ACQUIRES,The Exposed
 Jake,Chimpanzee,ACQUIRES,The Experiment
@@ -112,13 +112,13 @@ Marco,Wolf Spider,ACQUIRES,The Android
 Marco,Brown Bat,ACQUIRES,The Android
 Marco,Llama,ACQUIRES,The Reaction
 Marco,Racehorse,ACQUIRES,The Unknown
-Marco,Parrot (green),ACQUIRES,The Escape
+Marco,Parrot,ACQUIRES,The Escape
 Marco,Hammerhead Shark,ACQUIRES,The Escape
 Marco,Mole,ACQUIRES,The Underground
 Marco,Mosquito,ACQUIRES,The Decision
 Marco,Leeran,ACQUIRES,The Decision
 Marco,Tyrannosaurus Rex,ACQUIRES,In the Time of Dinosaurs
-Marco,Cobra (Spawn),ACQUIRES,The Discovery
+Marco,Cobra,ACQUIRES,The Discovery
 Marco,Flea,ACQUIRES,The Threat
 Marco,Rhinoceros,ACQUIRES,The Solution
 Marco,Giant Anteater,ACQUIRES,The Suspicion
@@ -158,7 +158,7 @@ Tobias,Brown Bat,ACQUIRES,The Underground
 Tobias,Mosquito,ACQUIRES,The Decision
 Tobias,Deinonychus,ACQUIRES,In the Time of Dinosaurs
 Tobias,Seagull,ACQUIRES,The Threat
-Tobias,Flea[note 9],ACQUIRES,The Threat
+Tobias,Flea,ACQUIRES,The Threat
 Tobias,African Elephant,ACQUIRES,The Solution
 Tobias,Rabbit,ACQUIRES,The Pretender
 Tobias,Baby Ringed Seal,ACQUIRES,The Extreme
@@ -199,9 +199,9 @@ Cassie,Termite,ACQUIRES,The Secret
 Cassie,Skunk,ACQUIRES,The Secret
 Cassie,Wolf Spider,ACQUIRES,The Android
 Cassie,Brown Bat,ACQUIRES,The Android
-Cassie,Human (Rachel),ACQUIRES,The Reaction
+Cassie,Human,ACQUIRES,The Reaction
 Cassie,Racehorse,ACQUIRES,The Unknown
-Cassie,Parrot (crimson),ACQUIRES,The Escape
+Cassie,Parrot,ACQUIRES,The Escape
 Cassie,Hammerhead Shark,ACQUIRES,The Escape
 Cassie,Mole,ACQUIRES,The Underground
 Cassie,Mosquito,ACQUIRES,The Decision
