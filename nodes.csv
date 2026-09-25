@@ -1,7 +1,7 @@
 name,type
 Jake,human
 Rachel,human
-Tobias,human
+Tobias,Red-Tailed Hawk
 Cassie,human
 Marco,human
 Golden Retriever,animal
@@ -77,3 +77,12 @@ Mountain Goat,animal
 Poodle,animal
 Mallard Drake,animal
 Eagle,animal
+Tabby Cat,animal
+Red-Tailed Hawk,animal
+Raccoon,animal
+Flea[note 9],animal
+Rabbit,animal
+Bull,animal
+Andalite,animal
+Nartec,animal
+Taxxon,animal
