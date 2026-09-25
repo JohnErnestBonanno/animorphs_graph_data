@@ -53,15 +53,13 @@ Unique morphs fell into a few different flavors.
 Also of note - poor Ax doesn't have any unique morphs relative to his human team members. And to add insult to injury, Tobias can morph into an Ax. 
 
 ## Lessons Learned
-- 
--
--
-
-
+* Devil In the Schema Details:
+	* Setting up the schema was much harder than I anticipated, especially in regards to philosphical organizaitonal questions. For example, Tobias starts off as a human, gets trapped as red-tailed hawk, and then later requires his DNA allowing him morph back to his original form. Under what form should Tobias be recorded as? Unless you are a hard core Animorphs fan, you likely don't know Ax's full name of "Aximili-Esgarrouth-Isthill" of the top of your head. But in the spirit of keeping the nodes clean, I didn't add in aliases or alternative names. 
+	* While beyond the scope of this exploration, this would have popped up in some tricky labeling cases. For example, technically, Visser Three is a rank, while the individual that holds the rank is Esplin 9466. But once again, unless you are actively particapting in Animorphs trivia, that's a super deep cut.  
+* Use LLMs for Syntax
+	* Given my primary EDA tools are combination of SQL and Python, I struggled to fully understand the Cypher syntax. For example, I'm still trying to internalize the core Cypher pattern of "Node - Relationship - Node" across both the selection and conditional parts of the code. However, Claude did a decent job translating natural language questions into a proper Cypher query.
 
 ## Roadmap
 - [x] Upload proof of concept data schema focusing on morphs
 - [x] Create Morph-focused Graphs 
 - [x] Record lessons learned
-
-
