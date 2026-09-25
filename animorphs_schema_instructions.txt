@@ -6,9 +6,8 @@ CREATE OR REPLACE DATABASE animorphs
 
 
 #Unique Entities
-CREATE CONSTRAINT entity_name IF NOT EXISTS
-FOR (n:Entity) REQUIRE n.name IS UNIQUE
-
+-- CREATE CONSTRAINT entity_name IF NOT EXISTS
+-- FOR (n:Entity) REQUIRE n.name IS UNIQUE
 
 #Load Nodes
 
@@ -32,3 +31,8 @@ SET r.detail = row.detail,
 # Remove Entity
 
 MATCH (n:Entity) REMOVE n:Entity
+
+
+# Checks
+
+CALL db.relationshipTypes()
