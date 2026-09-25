@@ -4,3 +4,6 @@ animorphs_load.txt
 
 # OS defaults
 .DS_Store
+
+#LibreOffice Defaults
+.~*
