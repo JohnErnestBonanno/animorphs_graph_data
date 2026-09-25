@@ -1,181 +1,182 @@
-from,to,type,Ordered Source,Source,Book Order
-Jake,Animorphs,MEMBER_OF,,,
-Rachel,Animorphs,MEMBER_OF,,,
-Marco,Animorphs,MEMBER_OF,,,
-Tobias,Animorphs,MEMBER_OF,,,
-Jake,Rachel,RELATED_TO,,,
-Jake,Golden Retriever,ACQUIRES,1 The Invasion,The Invasion,1
-Jake,Green Anole Lizard,ACQUIRES,1 The Invasion,The Invasion,1
-Jake,Siberian Tiger,ACQUIRES,1 The Invasion,The Invasion,1
-Jake,Peregrine Falcon,ACQUIRES,2 The Visitor,The Visitor,2
-Jake,Flea,ACQUIRES,2 The Visitor,The Visitor,2
-Jake,Wolf,ACQUIRES,3 The Encounter,The Encounter,3
-Jake,Trout,ACQUIRES,3 The Encounter,The Encounter,3
-Jake,Bottlenose Dolphin,ACQUIRES,4 The Message,The Message,4
-Jake,Seagull,ACQUIRES,4 The Message,The Message,4
-Jake,American Lobster,ACQUIRES,5 The Predator,The Predator,5
-Jake,Black Garden Ant,ACQUIRES,5 The Predator,The Predator,5
-Jake,American Cockroach,ACQUIRES,6 The Capture,The Capture,6
-Jake,Housefly,ACQUIRES,6 The Capture,The Capture,6
-Jake,Termite,ACQUIRES,9 The Secret,The Secret,9
-Jake,Great Horned Owl,ACQUIRES,9 The Secret,The Secret,9
-Jake,Skunk,ACQUIRES,9 The Secret,The Secret,9
-Jake,Brown Bat,ACQUIRES,10 The Android,The Android,10
-Jake,Spider Monkey ,ACQUIRES,11 The Forgotten,The Forgotten,11
-Jake,Jaguar,ACQUIRES,11 The Forgotten,The Forgotten,11
-Jake,Racehorse,ACQUIRES,14 The Unknown,The Unknown,14
-Jake,Parrot (white),ACQUIRES,15 The Escape,The Escape,15
-Jake,Hammerhead Shark,ACQUIRES,15 The Escape,The Escape,15
-Jake,Rhinoceros,ACQUIRES,16 The Warning,The Warning,16
-Jake,Mole,ACQUIRES,17 The Underground,The Underground,17
-Jake,Mosquito,ACQUIRES,18 The Decision,The Decision,18
-Jake,Leeran,ACQUIRES,18 The Decision,The Decision,18
-Jake,Tyrannosaurus Rex ,ACQUIRES,Megamorphs #2 In the Time of Dinosaurs,In the Time of Dinosaurs,Megamorphs #2
-Jake,Dragonfly,ACQUIRES,21 The Threat,The Threat,21
-Jake,Human (adult male),ACQUIRES,21 The Threat,The Threat,21
-Jake,Giant Anteater,ACQUIRES,24 The Suspicion,The Suspicion,24
-Jake,Baby Ringed Seal,ACQUIRES,25 The Extreme,The Extreme,25
-Jake,Polar Bear (Nanook),ACQUIRES,25 The Extreme,The Extreme,25
-Jake,Howler,ACQUIRES,26 The Attack,The Attack,26
-Jake,Giant Squid,ACQUIRES,27 The Exposed,The Exposed,27
-Jake,Chimpanzee,ACQUIRES,28 The Experiment,The Experiment,28
-Jake,Eel,ACQUIRES,29 The Sickness,The Sickness,29
-Jake,War Horse ,ACQUIRES,Megamorphs #3 Elfangor's Secret,Elfangor's Secret,Megamorphs #3
-Jake,Hork-Bajir,ACQUIRES,34 The Prophecy,The Prophecy,34
-Jake,Squirrel,ACQUIRES,35 The Proposal,The Proposal,35
-Jake,Cockatiel,ACQUIRES,35 The Proposal,The Proposal,35
-Jake,Orca ,ACQUIRES,36 The Mutation,The Mutation,36
-Jake,North American Beaver,ACQUIRES,47 The Resistance,The Resistance,47
-Jake,Anaconda,ACQUIRES,53 The Answer,The Answer,53
-Rachel,African Elephant,ACQUIRES,1 The Invasion,The Invasion,1
-Rachel,Bald Eagle,ACQUIRES,2 The Visitor,The Visitor,2
-Rachel,Shrew,ACQUIRES,2 The Visitor,The Visitor,2
-Rachel,Tomcat,ACQUIRES,2 The Visitor,The Visitor,2
-Rachel,Wolf,ACQUIRES,3 The Encounter,The Encounter,3
-Rachel,Trout,ACQUIRES,3 The Encounter,The Encounter,3
-Rachel,Bottlenose Dolphin,ACQUIRES,4 The Message,The Message,4
-Rachel,Seagull,ACQUIRES,4 The Message,The Message,4
-Rachel,Black Garden Ant,ACQUIRES,5 The Predator,The Predator,5
-Rachel,American Cockroach,ACQUIRES,6 The Capture,The Capture,6
-Rachel,Housefly,ACQUIRES,6 The Capture,The Capture,6
-Rachel,Great Horned Owl,ACQUIRES,6 The Capture,The Capture,6
-Rachel,Grizzly Bear,ACQUIRES,7 The Stranger,The Stranger,7
-Rachel,White Rat,ACQUIRES,9 The Secret,The Secret,9
-Rachel,Termite,ACQUIRES,9 The Secret,The Secret,9
-Rachel,Skunk,ACQUIRES,9 The Secret,The Secret,9
-Rachel,Brown Bat,ACQUIRES,10 The Android,The Android,10
-Rachel,Crocodile,ACQUIRES,12 The Reaction,The Reaction,12
-Rachel,Hork-Bajir,ACQUIRES,13 The Change,The Change,13
-Rachel,Racehorse,ACQUIRES,14 The Unknown,The Unknown,14
-Rachel,Parrot,ACQUIRES,15 The Escape,The Escape,15
-Rachel,Hammerhead Shark,ACQUIRES,15 The Escape,The Escape,15
-Rachel,Mole,ACQUIRES,17 The Underground,The Underground,17
-Rachel,Mosquito,ACQUIRES,18 The Decision,The Decision,18
-Rachel,Deinonychus,ACQUIRES,Megamorphs #2 In the Time of Dinosaurs,In the Time of Dinosaurs,Megamorphs #2
-Rachel,Flea,ACQUIRES,21 The Threat,The Threat,21
-Rachel,Giant Anteater,ACQUIRES,24 The Suspicion,The Suspicion,24
-Rachel,Baby Ringed Seal,ACQUIRES,25 The Extreme,The Extreme,25
-Rachel,Polar Bear,ACQUIRES,25 The Extreme,The Extreme,25
-Rachel,Sperm Whale,ACQUIRES,27 The Exposed,The Exposed,27
-Rachel,Giant Squid,ACQUIRES,27 The Exposed,The Exposed,27
-Rachel,Chimpanzee,ACQUIRES,28 The Experiment,The Experiment,28
-Rachel,Eel,ACQUIRES,29 The Sickness,The Sickness,29
-Rachel,Starfish,ACQUIRES,32 The Separation,The Separation,32
-Rachel,Squirrel,ACQUIRES,35 The Proposal,The Proposal,35
-Rachel,Cockatiel,ACQUIRES,35 The Proposal,The Proposal,35
-Rachel,Orca,ACQUIRES,36 The Mutation,The Mutation,36
-Rachel,Cheetah,ACQUIRES,37 The Weakness,The Weakness,37
-Rachel,Honeybee,ACQUIRES,40 The Other,The Other,40
-Rachel,Human,ACQUIRES,46 The Deception,The Deception,46
-Rachel,North American Beaver,ACQUIRES,47 The Resistance,The Resistance,47
-Rachel,German Shepherd,ACQUIRES,49 The Diversion,The Diversion,49
-Rachel,Dragonfly,ACQUIRES,53 The Answer,The Answer,53
-Rachel,Human,ACQUIRES,53 The Answer,The Answer,53
-Marco,Silverback Gorilla,ACQUIRES,1 The Invasion,The Invasion,1
-Marco,Osprey,ACQUIRES,2 The Visitor,The Visitor,2
-Marco,Wolf,ACQUIRES,3 The Encounter,The Encounter,3
-Marco,Trout,ACQUIRES,3 The Encounter,The Encounter,3
-Marco,Bottlenose Dolphin,ACQUIRES,4 The Message,The Message,4
-Marco,Seagull,ACQUIRES,4 The Message,The Message,4
-Marco,American Lobster,ACQUIRES,5 The Predator,The Predator,5
-Marco,Black Garden Ant,ACQUIRES,5 The Predator,The Predator,5
-Marco,American Cockroach,ACQUIRES,6 The Capture,The Capture,6
-Marco,Housefly,ACQUIRES,6 The Capture,The Capture,6
-Marco,Mouse,ACQUIRES,Megamorphs #1 The Andalite's Gift,The Andalite's Gift,Megamorphs #1
-Marco,Termite,ACQUIRES,9 The Secret,The Secret,9
-Marco,Great Horned Owl,ACQUIRES,9 The Secret,The Secret,9
-Marco,Skunk,ACQUIRES,9 The Secret,The Secret,9
-Marco,Irish Setter,ACQUIRES,10 The Android,The Android,10
-Marco,Wolf Spider,ACQUIRES,10 The Android,The Android,10
-Marco,Brown Bat,ACQUIRES,10 The Android,The Android,10
-Marco,Llama,ACQUIRES,12 The Reaction,The Reaction,12
-Marco,Racehorse,ACQUIRES,14 The Unknown,The Unknown,14
-Marco,Parrot (green),ACQUIRES,15 The Escape,The Escape,15
-Marco,Hammerhead Shark,ACQUIRES,15 The Escape,The Escape,15
-Marco,Mole,ACQUIRES,17 The Underground,The Underground,17
-Marco,Mosquito,ACQUIRES,18 The Decision,The Decision,18
-Marco,Leeran,ACQUIRES,18 The Decision,The Decision,18
-Marco,Tyrannosaurus Rex,ACQUIRES,Megamorphs #2 In the Time of Dinosaurs,In the Time of Dinosaurs,Megamorphs #2
-Marco,Cobra (Spawn),ACQUIRES,20 The Discovery,The Discovery,20
-Marco,Flea,ACQUIRES,21 The Threat,The Threat,21
-Marco,Rhinoceros,ACQUIRES,22 The Solution,The Solution,22
-Marco,Giant Anteater,ACQUIRES,24 The Suspicion,The Suspicion,24
-Marco,Baby Ringed Seal,ACQUIRES,25 The Extreme,The Extreme,25
-Marco,Polar Bear,ACQUIRES,25 The Extreme,The Extreme,25
-Marco,Giant Squid,ACQUIRES,27 The Exposed,The Exposed,27
-Marco,Chimpanzee,ACQUIRES,28 The Experiment,The Experiment,28
-Marco,Eel,ACQUIRES,29 The Sickness,The Sickness,29
-Marco,Grizzly Bear,ACQUIRES,Megamorphs #3 Elfangor's Secret,Elfangor's Secret,Megamorphs #3
-Marco,Human,ACQUIRES,30 The Reunion,The Reunion,30
-Marco,Mountain Goat,ACQUIRES,30 The Reunion,The Reunion,30
-Marco,Hork-Bajir,ACQUIRES,34 The Prophecy,The Prophecy,34
-Marco,Squirrel,ACQUIRES,35 The Proposal,The Proposal,35
-Marco,Cockatiel,ACQUIRES,35 The Proposal,The Proposal,35
-Marco,Poodle,ACQUIRES,35 The Proposal,The Proposal,35
-Marco,Orca,ACQUIRES,36 The Mutation,The Mutation,36
-Marco,Cheetah,ACQUIRES,37 The Weakness,The Weakness,37
-Marco,Honeybee,ACQUIRES,40 The Other,The Other,40
-Marco,Hork-Bajir,ACQUIRES,44 The Unexpected,The Unexpected,44
-Marco,North American Beaver,ACQUIRES,47 The Resistance,The Resistance,47
-Marco,German Shepherd,ACQUIRES,49 The Diversion,The Diversion,49
-Marco,Mallard Drake,ACQUIRES,51 The Absolute,The Absolute,51
-Marco,Human,ACQUIRES,51 The Absolute,The Absolute,51
-Marco,Dragonfly,ACQUIRES,53 The Answer,The Answer,53
-Marco,Eagle,ACQUIRES,54 The Beginning,The Beginning,54
-Tobias,Tabby Cat,ACQUIRES,The Invasion,,
-Tobias,Red-Tailed Hawk,ACQUIRES,The Invasion,,
-Tobias,Raccoon,ACQUIRES,The Change,,
-Tobias,Hork-Bajir,ACQUIRES,The Change,,
-Tobias,Human,ACQUIRES,The Change,,
-Tobias,Racehorse,ACQUIRES,The Unknown,,
-Tobias,Bottlenose Dolphin,ACQUIRES,The Escape,,
-Tobias,Hammerhead Shark,ACQUIRES,The Escape,,
-Tobias,Housefly,ACQUIRES,The Warning,,
-Tobias,Mole,ACQUIRES,The Underground,,
-Tobias,Brown Bat,ACQUIRES,The Underground,,
-Tobias,Mosquito,ACQUIRES,The Decision,,
-Tobias,Deinonychus,ACQUIRES,In the Time of Dinosaurs,,
-Tobias,Seagull,ACQUIRES,The Threat,,
-Tobias,Flea[note 9],ACQUIRES,The Threat,,
-Tobias,African Elephant,ACQUIRES,The Solution,,
-Tobias,Rabbit,ACQUIRES,The Pretender,,
-Tobias,Baby Ringed Seal,ACQUIRES,The Extreme,,
-Tobias,Polar Bear,ACQUIRES,The Extreme,,
-Tobias,Sperm Whale,ACQUIRES,The Exposed,,
-Tobias,Giant Squid,ACQUIRES,The Exposed,,
-Tobias,Chimpanzee,ACQUIRES,The Experiment,,
-Tobias,Bull,ACQUIRES,The Experiment,,
-Tobias,Eel,ACQUIRES,The Sickness,,
-Tobias,American Cockroach,ACQUIRES,The Reunion,,
-Tobias,Mountain Goat,ACQUIRES,The Reunion,,
-Tobias,Andalite,ACQUIRES,The Illusion,,
-Tobias,Orca,ACQUIRES,The Mutation,,
-Tobias,Nartec,ACQUIRES,The Mutation,,
-Tobias,Honeybee,ACQUIRES,The Other,,
-Tobias,Human,ACQUIRES,The Test,,
-Tobias,Taxxon,ACQUIRES,The Test,,
-Tobias,Human,ACQUIRES,The Deception,,
-Tobias,North American Beaver,ACQUIRES,The Resistance,,
-Tobias,German Shepherd,ACQUIRES,The Diversion,,
-Tobias,Mallard Drake,ACQUIRES,The Absolute,,
-Tobias,Dragonfly,ACQUIRES,The Answer,,
+from,to,type,Source
+Jake,Animorphs,MEMBER_OF,
+Rachel,Animorphs,MEMBER_OF,
+Marco,Animorphs,MEMBER_OF,
+Tobias,Animorphs,MEMBER_OF,
+Jake,Rachel,RELATED_TO,
+Jake,Golden Retriever,ACQUIRES,The Invasion
+Jake,Green Anole Lizard,ACQUIRES,The Invasion
+Jake,Siberian Tiger,ACQUIRES,The Invasion
+Jake,Peregrine Falcon,ACQUIRES,The Visitor
+Jake,Flea,ACQUIRES,The Visitor
+Jake,Wolf,ACQUIRES,The Encounter
+Jake,Trout,ACQUIRES,The Encounter
+Jake,Bottlenose Dolphin,ACQUIRES,The Message
+Jake,Seagull,ACQUIRES,The Message
+Jake,American Lobster,ACQUIRES,The Predator
+Jake,Black Garden Ant,ACQUIRES,The Predator
+Jake,American Cockroach,ACQUIRES,The Capture
+Jake,Housefly,ACQUIRES,The Capture
+Jake,Termite,ACQUIRES,The Secret
+Jake,Great Horned Owl,ACQUIRES,The Secret
+Jake,Skunk,ACQUIRES,The Secret
+Jake,Brown Bat,ACQUIRES,The Android
+Jake,Spider Monkey ,ACQUIRES,The Forgotten
+Jake,Jaguar,ACQUIRES,The Forgotten
+Jake,Racehorse,ACQUIRES,The Unknown
+Jake,Parrot (white),ACQUIRES,The Escape
+Jake,Hammerhead Shark,ACQUIRES,The Escape
+Jake,Rhinoceros,ACQUIRES,The Warning
+Jake,Mole,ACQUIRES,The Underground
+Jake,Mosquito,ACQUIRES,The Decision
+Jake,Leeran,ACQUIRES,The Decision
+Jake,Tyrannosaurus Rex ,ACQUIRES,In the Time of Dinosaurs
+Jake,Dragonfly,ACQUIRES,The Threat
+Jake,Human (adult male),ACQUIRES,The Threat
+Jake,Giant Anteater,ACQUIRES,The Suspicion
+Jake,Baby Ringed Seal,ACQUIRES,The Extreme
+Jake,Polar Bear (Nanook),ACQUIRES,The Extreme
+Jake,Howler,ACQUIRES,The Attack
+Jake,Giant Squid,ACQUIRES,The Exposed
+Jake,Chimpanzee,ACQUIRES,The Experiment
+Jake,Eel,ACQUIRES,The Sickness
+Jake,War Horse ,ACQUIRES,Elfangor's Secret
+Jake,Hork-Bajir,ACQUIRES,The Prophecy
+Jake,Squirrel,ACQUIRES,The Proposal
+Jake,Cockatiel,ACQUIRES,The Proposal
+Jake,Orca ,ACQUIRES,The Mutation
+Jake,North American Beaver,ACQUIRES,The Resistance
+Jake,Anaconda,ACQUIRES,The Answer
+Rachel,African Elephant,ACQUIRES,The Invasion
+Rachel,Bald Eagle,ACQUIRES,The Visitor
+Rachel,Shrew,ACQUIRES,The Visitor
+Rachel,Tomcat,ACQUIRES,The Visitor
+Rachel,Wolf,ACQUIRES,The Encounter
+Rachel,Trout,ACQUIRES,The Encounter
+Rachel,Bottlenose Dolphin,ACQUIRES,The Message
+Rachel,Seagull,ACQUIRES,The Message
+Rachel,Black Garden Ant,ACQUIRES,The Predator
+Rachel,American Cockroach,ACQUIRES,The Capture
+Rachel,Housefly,ACQUIRES,The Capture
+Rachel,Great Horned Owl,ACQUIRES,The Capture
+Rachel,Grizzly Bear,ACQUIRES,The Stranger
+Rachel,White Rat,ACQUIRES,The Secret
+Rachel,Termite,ACQUIRES,The Secret
+Rachel,Skunk,ACQUIRES,The Secret
+Rachel,Brown Bat,ACQUIRES,The Android
+Rachel,Crocodile,ACQUIRES,The Reaction
+Rachel,Hork-Bajir,ACQUIRES,The Change
+Rachel,Racehorse,ACQUIRES,The Unknown
+Rachel,Parrot,ACQUIRES,The Escape
+Rachel,Hammerhead Shark,ACQUIRES,The Escape
+Rachel,Mole,ACQUIRES,The Underground
+Rachel,Mosquito,ACQUIRES,The Decision
+Rachel,Deinonychus,ACQUIRES,In the Time of Dinosaurs
+Rachel,Flea,ACQUIRES,The Threat
+Rachel,Giant Anteater,ACQUIRES,The Suspicion
+Rachel,Baby Ringed Seal,ACQUIRES,The Extreme
+Rachel,Polar Bear,ACQUIRES,The Extreme
+Rachel,Sperm Whale,ACQUIRES,The Exposed
+Rachel,Giant Squid,ACQUIRES,The Exposed
+Rachel,Chimpanzee,ACQUIRES,The Experiment
+Rachel,Eel,ACQUIRES,The Sickness
+Rachel,Starfish,ACQUIRES,The Separation
+Rachel,Squirrel,ACQUIRES,The Proposal
+Rachel,Cockatiel,ACQUIRES,The Proposal
+Rachel,Orca,ACQUIRES,The Mutation
+Rachel,Cheetah,ACQUIRES,The Weakness
+Rachel,Honeybee,ACQUIRES,The Other
+Rachel,Human,ACQUIRES,The Deception
+Rachel,North American Beaver,ACQUIRES,The Resistance
+Rachel,German Shepherd,ACQUIRES,The Diversion
+Rachel,Dragonfly,ACQUIRES,The Answer
+Rachel,Human,ACQUIRES,The Answer
+Marco,Silverback Gorilla,ACQUIRES,The Invasion
+Marco,Osprey,ACQUIRES,The Visitor
+Marco,Wolf,ACQUIRES,The Encounter
+Marco,Trout,ACQUIRES,The Encounter
+Marco,Bottlenose Dolphin,ACQUIRES,The Message
+Marco,Seagull,ACQUIRES,The Message
+Marco,American Lobster,ACQUIRES,The Predator
+Marco,Black Garden Ant,ACQUIRES,The Predator
+Marco,American Cockroach,ACQUIRES,The Capture
+Marco,Housefly,ACQUIRES,The Capture
+Marco,Mouse,ACQUIRES,The Andalite's Gift
+Marco,Termite,ACQUIRES,The Secret
+Marco,Great Horned Owl,ACQUIRES,The Secret
+Marco,Skunk,ACQUIRES,The Secret
+Marco,Irish Setter,ACQUIRES,The Android
+Marco,Wolf Spider,ACQUIRES,The Android
+Marco,Brown Bat,ACQUIRES,The Android
+Marco,Llama,ACQUIRES,The Reaction
+Marco,Racehorse,ACQUIRES,The Unknown
+Marco,Parrot (green),ACQUIRES,The Escape
+Marco,Hammerhead Shark,ACQUIRES,The Escape
+Marco,Mole,ACQUIRES,The Underground
+Marco,Mosquito,ACQUIRES,The Decision
+Marco,Leeran,ACQUIRES,The Decision
+Marco,Tyrannosaurus Rex,ACQUIRES,In the Time of Dinosaurs
+Marco,Cobra (Spawn),ACQUIRES,The Discovery
+Marco,Flea,ACQUIRES,The Threat
+Marco,Rhinoceros,ACQUIRES,The Solution
+Marco,Giant Anteater,ACQUIRES,The Suspicion
+Marco,Baby Ringed Seal,ACQUIRES,The Extreme
+Marco,Polar Bear,ACQUIRES,The Extreme
+Marco,Giant Squid,ACQUIRES,The Exposed
+Marco,Chimpanzee,ACQUIRES,The Experiment
+Marco,Eel,ACQUIRES,The Sickness
+Marco,Grizzly Bear,ACQUIRES,Elfangor's Secret
+Marco,Human,ACQUIRES,The Reunion
+Marco,Mountain Goat,ACQUIRES,The Reunion
+Marco,Hork-Bajir,ACQUIRES,The Prophecy
+Marco,Squirrel,ACQUIRES,The Proposal
+Marco,Cockatiel,ACQUIRES,The Proposal
+Marco,Poodle,ACQUIRES,The Proposal
+Marco,Orca,ACQUIRES,The Mutation
+Marco,Cheetah,ACQUIRES,The Weakness
+Marco,Honeybee,ACQUIRES,The Other
+Marco,Hork-Bajir,ACQUIRES,The Unexpected
+Marco,North American Beaver,ACQUIRES,The Resistance
+Marco,German Shepherd,ACQUIRES,The Diversion
+Marco,Mallard Drake,ACQUIRES,The Absolute
+Marco,Human,ACQUIRES,The Absolute
+Marco,Dragonfly,ACQUIRES,The Answer
+Marco,Eagle,ACQUIRES,The Beginning
+Tobias,Tabby Cat,ACQUIRES,The Invasion
+Tobias,Red-Tailed Hawk,ACQUIRES,The Invasion
+Tobias,Raccoon,ACQUIRES,The Change
+Tobias,Hork-Bajir,ACQUIRES,The Change
+Tobias,Human,ACQUIRES,The Change
+Tobias,Racehorse,ACQUIRES,The Unknown
+Tobias,Bottlenose Dolphin,ACQUIRES,The Escape
+Tobias,Hammerhead Shark,ACQUIRES,The Escape
+Tobias,Housefly,ACQUIRES,The Warning
+Tobias,Mole,ACQUIRES,The Underground
+Tobias,Brown Bat,ACQUIRES,The Underground
+Tobias,Mosquito,ACQUIRES,The Decision
+Tobias,Deinonychus,ACQUIRES,In the Time of Dinosaurs
+Tobias,Seagull,ACQUIRES,The Threat
+Tobias,Flea[note 9],ACQUIRES,The Threat
+Tobias,African Elephant,ACQUIRES,The Solution
+Tobias,Rabbit,ACQUIRES,The Pretender
+Tobias,Baby Ringed Seal,ACQUIRES,The Extreme
+Tobias,Polar Bear,ACQUIRES,The Extreme
+Tobias,Sperm Whale,ACQUIRES,The Exposed
+Tobias,Giant Squid,ACQUIRES,The Exposed
+Tobias,Chimpanzee,ACQUIRES,The Experiment
+Tobias,Bull,ACQUIRES,The Experiment
+Tobias,Eel,ACQUIRES,The Sickness
+Tobias,American Cockroach,ACQUIRES,The Reunion
+Tobias,Mountain Goat,ACQUIRES,The Reunion
+Tobias,Andalite,ACQUIRES,The Illusion
+Tobias,Orca,ACQUIRES,The Mutation
+Tobias,Nartec,ACQUIRES,The Mutation
+Tobias,Honeybee,ACQUIRES,The Other
+Tobias,Human,ACQUIRES,The Test
+Tobias,Taxxon,ACQUIRES,The Test
+Tobias,Human,ACQUIRES,The Deception
+Tobias,North American Beaver,ACQUIRES,The Resistance
+Tobias,German Shepherd,ACQUIRES,The Diversion
+Tobias,Mallard Drake,ACQUIRES,The Absolute
+Tobias,Dragonfly,ACQUIRES,The Answer
+Cassie,,,
